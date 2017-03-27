@@ -1,0 +1,16 @@
+﻿@*@model ITS_Pravi_Projekat.ViewModels.UnosNoveOsobeViewModel
+
+@using (Html.BeginForm("Novo","Osobe"))
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.KontaktTelefon)
+        @Html.TextBoxFor(m => m.KontaktTelefon.BrojTelefona, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.KontaktTelefon.BrojTelefona)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.KontaktTelefon.TipKontaktTelefon)
+        @Html.DropDownListFor(m => m.KontaktTelefon.TipKontaktTelefonID, new SelectList(Model.TipoviKontaktTelefona, "ID", "NazivTipa"), "Izaberite tip kontakt telefona", new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.KontaktTelefon.TipKontaktTelefonID)
+    </div>
+}*@

@@ -1,0 +1,13 @@
+﻿@model IEnumerable<ITS_Pravi_Projekat.Models.Osoba>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>
+    @foreach(var osoba in Model)
+    {
+        @osoba.Ime
+    }
+</h2>
+

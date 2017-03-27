@@ -1,0 +1,43 @@
+﻿@model   ITS_Pravi_Projekat.ViewModels.UnosNoveOsobeViewModel
+@{
+    ViewBag.Title = "Novo";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Unos Osobe</h2>
+@using (Html.BeginForm("Create", "Osobe"))
+{
+    
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Osoba.Ime)
+        @Html.TextBoxFor(m => m.Osoba.Ime, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Osoba.Ime)
+
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Osoba.Prezime)
+        @Html.TextBoxFor(m => m.Osoba.Prezime, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Osoba.Prezime)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Osoba.PolId)
+        @Html.DropDownListFor(m => m.Osoba.PolId, new SelectList(Model.Pol, "Id", "NazivPola"), "", new { @class = "form-control" })
+
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Osoba.MestoId)
+        @Html.DropDownListFor(m => m.Osoba.MestoId, new SelectList(Model.Mesto, "ID", "NazivMesta"), "", new { @class = "form-control" })
+
+    </div>
+   
+    @Html.HiddenFor(m => m.Osoba.ID)
+    @Html.AntiForgeryToken()
+
+    <button type="submit" class="btn btn-primary">Sacuvaj</button>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

@@ -1,0 +1,24 @@
+﻿@model ITS_Pravi_Projekat.Models.IndexViewModel
+@{
+    ViewBag.Title = "Home Page";
+}
+
+    @if (User.IsInRole("MenjaDodajeStampaOsobuRegistrujeKorisnike"))
+    {
+       <h1 class="naslov_home">Dobro dosli administratore!</h1>
+
+       <div id ="button-container">
+           
+           <a class="home_dugme_admin" href='@Url.Action("Register","Account" )'>
+               <img id="reg_dugme_home_admin" src="@Url.Content("~/Content/Images/registrujte_novog_korisnika_dugme.png")" alt="Registrujte novog korisnika" />
+           </a>
+
+           <a class="home_dugme_admin" href='@Url.Action("ChangePassword","Manage" )'>
+               <img id="pass_admin" src="@Url.Content("~/Content/Images/lozinka_dugme_admin.png")" alt="Promenite lozinku korisnika" />
+           </a>
+            
+       </div>       
+    }
+<h2>Dobro dosli!</h2>
+<p>Lepo Vas je videti ponovo!</p>
+<div id="dugme_lista_osoba">@*<a href="../Osobe/PrikazCitanjeDodaj.cshtml">Pristupite listi osoba</a>*@ @Html.ActionLink("Pristupite listi osoba", "Osoba_prikaz", "Osobe")</div>

@@ -1,0 +1,72 @@
+﻿@model   ITS_Pravi_Projekat.ViewModels.UnosNoveOsobeViewModel
+@{
+    ViewBag.Title = "Novo";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<script src="~/Scripts/JquerryMaskedInput.js"></script>
+
+<script type="text/javascript">
+    $('document').ready(function () { $("#datum").mask("99/99/9999", { placeholder: "mm/dd/yyyy" });});
+
+</script>
+
+<h2 class="unos">Unos Osobe</h2>
+<div class="unosforma">
+    @using (Html.BeginForm("Create", "Osobe"))
+    {
+        <div class="form-group">
+            @Html.LabelFor(m => m.Osoba.Ime)
+            @Html.TextBoxFor(m => m.Osoba.Ime, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.Osoba.Ime)
+
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.Osoba.Prezime)
+            @Html.TextBoxFor(m => m.Osoba.Prezime, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.Osoba.Prezime)
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.Osoba.ImeRoditelja)
+            @Html.TextBoxFor(m => m.Osoba.ImeRoditelja, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.Osoba.ImeRoditelja)
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Osoba.JMBG)
+            @Html.TextBoxFor(m => m.Osoba.JMBG, new {@maxlength ="13", @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.Osoba.JMBG)
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Osoba.DatumRodjenja)
+            @Html.TextBoxFor(m => m.Osoba.DatumRodjenja, new {   @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.Osoba.DatumRodjenja)
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Osoba.BrojLicneKarte)
+            @Html.TextBoxFor(m => m.Osoba.BrojLicneKarte, new { @maxlength = "9", @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.Osoba.BrojLicneKarte)
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Osoba.PolId)
+            @Html.DropDownListFor(m => m.Osoba.PolId, new SelectList(Model.Polovi, "Id", "NazivPola"), "Izaberite pol", new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.Osoba.PolId)
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Osoba.Beleska)
+            @Html.TextAreaFor(m => m.Osoba.Beleska, new { @class = "form-control" })
+        </div>
+
+        @Html.HiddenFor(m => m.Osoba.ID)
+        @Html.AntiForgeryToken()
+
+        <button type="submit" class="btn btn-primary" id="reg_dugme">Sacuvaj</button>
+    }
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

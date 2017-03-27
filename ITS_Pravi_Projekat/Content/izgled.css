@@ -1,0 +1,453 @@
+﻿body{
+    background-color:#141518;
+    color:#fff;
+}
+
+p,h1,h2,h3{
+    color:#fff;
+}
+
+h2{
+    font-weight:600;
+}
+
+#loginForm{
+    background-color:#141518;
+}
+
+#uselocal{
+    margin-top:15px;
+    margin-left:1%;
+}
+
+.form-horizontal {
+    padding:2px;
+}
+
+.navbar {
+    background-color:#1cba70;
+    color:#6f47ff;
+}
+
+p a {
+    color:#1cba70;
+}
+
+p a:hover{
+    color:#22e58a;
+    text-decoration:none;
+}
+
+a {
+    color:#1cba70;
+    font-weight:600;
+}
+
+a:hover{
+    color:#fff;
+    text-decoration:none;
+}
+
+.navbar-inverse .navbar-nav li a {
+    color:#fff;
+}
+
+.navbar-inverse .navbar-nav li a:hover {
+    color:#ececec;
+}
+
+.navbar-fixed-top{
+    border-width:0;
+}
+
+.navbar-nav li a:focus{
+    color:#e2e2e2;
+}
+
+.input, .form-control {
+    background-color:#141518;
+    border: 1px solid #272a2e;
+    border-radius:4px;
+}
+
+input:focus, .form-control:focus{
+    border-color:#1cba70;
+    background-color: #141518;
+}
+
+.btn-default {
+    color: #ffffff;
+    background-color: #404040;
+}
+
+hr {
+    border-top: 1px solid #212121;
+}
+
+#reg {
+    margin-left: 1%;
+}
+
+.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
+    background-color: #22e58a;
+}
+
+.field-validation-error{
+    color:red;
+}
+
+.input-validation-error{
+    border: 2px solid red;
+}
+
+.list-group-item {
+    background-color: #272a2e;
+    border: none;
+}
+
+.list-group-item:nth-child(odd){
+    background-color:#4f4f4f;
+}
+
+a:hover{
+    text-decoration:none;
+}
+
+ul li a#obrisi{
+    display:inline-block;
+    float:right;
+}
+
+tr{
+    background-color:#4f4f4f;
+}
+
+table.table tbody tr:hover{
+    background-color:#5f5f5f;
+}
+
+table.table tbody tr:nth-child(odd):hover{
+    background-color:#5f5f5f;
+}
+
+tr:nth-child(odd){
+    background-color:#272a2e;
+}
+
+tr:nth-child(odd):hover{
+    background-color:#757575;
+}
+
+th{
+    background-color:#141518;
+
+}
+
+form table.table tbody tr td{
+    font-weight:600;
+    color:#1cba70;
+    border-top:none;
+}
+
+form table.table tbody tr td:hover {
+        color: #fff;
+}
+
+.btn-primary{
+    background-color:#1cba70;
+}
+
+.btn-primary:hover{
+    background-color:#22e58a;
+}
+
+.btn-primary:active{
+    background-color:#22e58a;
+}
+
+.form-control{
+    color:#1cba70;
+    font-weight:600;
+}
+
+.unosforma{
+    width: 285px;
+    margin: 0 auto 0 auto;
+}
+
+h2.unos{
+    text-align:center;
+    padding-top:10px;
+}
+
+div.form-group label.logemailipass{
+    text-align:left;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.logbutton{
+    margin-left:15px;
+}
+
+.checkboxlog{
+    margin-left:45px;
+}
+
+.a_iz_tabele img{
+    max-width:100%;
+    display:inline-block;
+}
+
+.a_iz_tabele p{
+    color:#1cba70;
+    width: 95px;
+    display:inline-block;
+}
+
+div.dodaj_dugme{
+    border:3px solid #1cba70;
+    border-radius:4px;
+    display:inline-block;
+    box-sizing:border-box;
+    padding:4px;
+    background-color:#1cba70;
+}
+
+div.dodaj_dugme a{
+    display:inline-block;
+}
+
+div.dodaj_dugme p {
+    font-size:10pt;
+    display:inline-block;
+    line-height: 12pt;
+}
+
+div img#dodaj{
+    display:inline-block;
+     -webkit-filter:brightness(0) invert(1);
+    filter:brightness(0) invert(1);
+ 
+}
+
+div a.a_iz_tabele p{
+    font-size:10pt;
+}
+
+a:focus{
+    color:#24d884;
+    text-decoration:none;
+}
+
+a:hover{
+    color:#24d884;
+}
+
+img#cikica{
+    width:200px;
+    margin-left:42px;  
+}
+
+img#olovka{
+    margin-top:3px;
+}
+
+img#olovka:hover{
+    background-image:url(Images/edit_fill.png);
+}
+
+img#kanta:hover{
+    background-image:url(Images/kanta_fill.png);
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #fff;
+}
+
+#log_in{
+    margin:0 0 0 109px;
+}
+
+#reg_dugme{
+    margin:0 0 0 102px;
+}
+
+.kolona_kanta{
+    width:50px;
+}
+
+.kolona_edit{
+    width:40px;
+}
+
+.kolona_treca_prazna{
+    width:40px;
+}
+
+.tabela_omotac{
+    width:800px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+div#admin_home_container a img{
+    display:block;
+}
+
+a.home_dugme_admin img#pass_admin, a.home_dugme_admin img#reg_dugme_home_admin {
+    margin-top: 15px;
+    width:100%;
+    max-width:400px;
+}
+
+div#dugme_lista_osoba{
+    display:inline-block;
+    background-color:#1cba70;
+    color:#fff;
+    border-radius:4px;
+    padding:6px;
+    box-sizing:border-box;
+}
+
+div#dugme_lista_osoba a{
+    padding:4px;
+    color:#fff;
+}
+
+div#button-container{
+    width:75%;
+    margin:0 auto;
+}
+
+h1.naslov_home {
+    text-align:center;
+}
+
+input#stampanje{
+    background:transparent;
+    background-image:url(Images/print.png);
+    background-repeat:no-repeat;
+    background-position:50% 50%;
+    height:38px;
+    width:41px;
+    border:none;
+    border:none;
+    font-size:0;
+    display:inline;
+}
+
+input#stampanje:hover{
+    background-image:url(Images/print_fill.png);
+}
+
+a.a_iz_detalja img{
+    margin-top: 7px;
+    height: 34px;
+}
+
+a.a_iz_detalja img#olovka_detalji:hover{
+    background-image:url(Images/edit_detalji_fill.png);
+    background-size:  36.6833px 34px;
+}
+
+a.a_iz_detalja img#olovka_detalji{
+    margin-left:10px;
+}
+
+a.a_iz_detalja img#kanta_detalji:hover{
+    background-image:url(Images/delete_detalji_fill.png);
+    background-size:  36.6833px 34px;
+}
+
+div#stampaj li{
+    margin-bottom:10px;
+    border:1px solid #272a2e;
+    border-radius:4px;
+    padding:4px 4px 4px 36px;
+    box-sizing:border-box;
+    display:block;
+}
+
+div#stampaj li:not(span){
+    font-weight:600;
+    font-size:16px;
+    display:block;
+}
+
+div.container a.a_iz_tabele img{
+    display:inline;
+}
+
+span.opis_podatka{
+    color:#1cba70;
+    font-weight:600;
+    font-style:normal;
+    font-size:14px;
+    text-indent:-30px;
+    display:block;
+    
+}
+
+div#stampaj ul{
+    list-style:none;
+    display:inline-block;
+}
+
+div#stampaj ul:after{
+    content:'';
+    display:block;
+    clear:both;
+}
+
+@media screen and (max-width: 1200px){
+    div#button-container{
+        width:43%;
+    }
+}
+
+@media screen and (max-width: 960px) {
+    #log_in {
+        margin:0;
+        padding:12px 125px 12px 125px;
+    }
+    #reg_dugme {
+        margin:0;
+        padding:12px 118px 12px 118px;
+    }
+}
+
+@media screen and (max-width: 770px) {
+    div#button-container {
+        width: 240px;
+    }
+}
+
+@media screen and (max-width: 465px){
+    h1.naslov_home{
+        text-align:center;
+        width:80%;
+        margin-left:auto;
+        margin-right:auto;
+    }
+}
+
+@media screen and (max-width: 430px){
+    a.home_dugme_admin img{
+        width:95%;
+        display:block;
+        margin-left:auto;
+        margin-right:auto;
+    }
+
+    h1.naslov_home {
+        font-size:24px;
+    }
+}
+
+/*@media screen and (max-width: 767px) {
+    .sortable.table-hover.table.table-responsive {
+        border: none;
+    }
+}
+    */

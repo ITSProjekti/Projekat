@@ -1,0 +1,72 @@
+﻿@model IEnumerable<ITS_Pravi_Projekat.Models.Osoba>
+@{
+    ViewBag.Title = "OsobaPrikaz";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2></h2>
+
+@using (Html.BeginForm("Create", "Osobe"))
+{
+    <div class="dodaj_dugme">
+        <a class="a_iz_tabele" href='@Url.Action("Novo","Osobe")'>
+            <img class="editolovka" id="dodaj" src="@Url.Content("~/Content/Images/add_new_user.png")" alt="edit" />
+
+            <p>Dodaj Novog</p>
+        </a>
+    </div>
+
+    <SCRIPT SRC="~/Scripts/SortTable.js"></SCRIPT>
+    <table class="sortable table-hover table table-responsive">
+        <thead>
+            <tr><th>Ime</th></tr>
+        </thead>
+        <tbody>
+            @foreach (var osoba in Model)
+            {
+                <tr>
+                    <td>
+                     @*   @Html.ActionLink("Button", "Detaljno", new { @class = "editdugme" }) *@
+                       
+                        @Html.ActionLink(osoba.Ime + " " + osoba.Prezime, "Detaljno", "Osobe", new { id = osoba.ID }, null)
+                    </td>
+                </tr>
+
+            }
+
+        </tbody>
+
+    </table>
+
+
+
+
+      @*<ol class="list-group">
+            @foreach (var osoba in Model)
+
+        {
+
+
+                <li class="list-group-item">
+
+                    @Html.ActionLink(osoba.Ime + " " + osoba.Prezime, "Izmeni", "Osobe", new { id = osoba.ID }, null)
+
+                    @Html.ActionLink("Novo", "Novo", "Osobe", null, null)
+
+                    @Html.ActionLink("Obrisi", "ObrisiOsobu", "Osobe", new { id = osoba.ID }, null)
+                </li>
+
+
+
+
+
+
+        }
+
+        </ol>*@
+    
+}
+
+
+
+

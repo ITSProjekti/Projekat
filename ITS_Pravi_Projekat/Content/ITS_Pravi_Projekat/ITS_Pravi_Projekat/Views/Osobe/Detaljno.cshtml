@@ -1,0 +1,16 @@
+﻿@model ITS_Pravi_Projekat.Models.Osoba
+@{
+    ViewBag.Title = "Detaljno";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@Model.Ime</h2>
+
+@using (Html.BeginForm("Create", "Osobe"))
+{
+    <li>grad - @Model.MestoRodjenja.NazivMesta</li>
+    <li>pol - @Model.Pol.NazivPola</li>
+
+
+}
+

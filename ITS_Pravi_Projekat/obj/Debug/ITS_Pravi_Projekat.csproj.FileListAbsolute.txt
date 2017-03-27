@@ -1,0 +1,348 @@
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\roslyn\csc.exe
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\roslyn\vbc.exe
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\roslyn\VBCSCompiler.exe
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\ITS_Pravi_Projekat.dll.config
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\ITS_Pravi_Projekat.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\ITS_Pravi_Projekat.pdb
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\Antlr3.Runtime.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\EntityFramework.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\EntityFramework.SqlServer.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\Microsoft.Owin.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\Newtonsoft.Json.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\Owin.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\System.Web.Helpers.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\System.Web.Mvc.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\System.Web.Optimization.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\System.Web.Razor.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\System.Web.WebPages.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\System.Web.WebPages.Razor.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\WebGrease.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\System.Web.Helpers.xml
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\System.Web.Mvc.xml
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\System.Web.Optimization.xml
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\System.Web.Razor.xml
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\System.Web.WebPages.xml
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\System.Web.WebPages.Razor.xml
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\Antlr3.Runtime.pdb
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\Newtonsoft.Json.xml
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\EntityFramework.xml
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\EntityFramework.SqlServer.xml
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\Microsoft.Owin.xml
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.xml
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.csprojResolveAssemblyReference.cache
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.pdb
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.Migrations.InicijalnaMigracija.resources
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.csproj.GenerateResource.Cache
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.Migrations.DodajMestoRodjenja.resources
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.Migrations.DodajPol.resources
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.Migrations.PopuniPol.resources
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.Migrations.PopuniGradove.resources
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.Migrations.DodajDbsetPol.resources
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.Migrations.obrisiMesta.resources
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.Migrations.ObrisiPodatkeIzBaze.resources
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.Migrations.DodajMesta.resources
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.Migrations.PonovoPopuniPol.resources
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.Migrations.dodajRequieredNaImePrezime.resources
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\System.Net.Http.Formatting.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\System.Web.Http.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\System.Web.Http.WebHost.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\System.Net.Http.Formatting.xml
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\System.Web.Http.xml
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\System.Web.Http.WebHost.xml
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\AutoMapper.dll
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\bin\AutoMapper.xml
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.Migrations.SeedKorisnika.resources
+c:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.Migrations.DodajImeRoditelja.resources
+c:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.Migrations.DodajJMBG.resources
+c:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.Migrations.DodajDatumRodjenja.resources
+c:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.Migrations.DodajBrojLicneKarte.resources
+c:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.Migrations.DodajRequieredImeroditelja.resources
+c:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.Migrations.DodajBelesku.resources
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.Migrations.DodajBeleskuIKontaktTelefon.resources
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.Migrations.DodajBelesku1.resources
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.Migrations.DodajBelesku2.resources
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.Migrations.DodajBelesku3.resources
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.Migrations.DodajKontaktTelefon.resources
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.Migrations.DodavanjeOstatka.resources
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.Migrations.OpstinaMestoPromena.resources
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.Migrations.OsobaOpstinaPromena.resources
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.Migrations.OsobaID.resources
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.Migrations.OsobaID1.resources
+C:\Users\Leka_Vukan\Documents\Visual Studio 2015\Projects\ITS_Pravi_Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.Migrations.OsobaID2.resources
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\roslyn\csc.exe
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\roslyn\vbc.exe
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\roslyn\VBCSCompiler.exe
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\ITS_Pravi_Projekat.dll.config
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\ITS_Pravi_Projekat.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\ITS_Pravi_Projekat.pdb
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\Antlr3.Runtime.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\AutoMapper.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\EntityFramework.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\EntityFramework.SqlServer.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\Microsoft.Owin.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\Newtonsoft.Json.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\Owin.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\System.Net.Http.Formatting.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\System.Web.Helpers.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\System.Web.Http.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\System.Web.Http.WebHost.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\System.Web.Mvc.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\System.Web.Optimization.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\System.Web.Razor.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\System.Web.WebPages.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\System.Web.WebPages.Razor.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\WebGrease.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\AutoMapper.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\System.Net.Http.Formatting.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\System.Web.Http.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\System.Web.Http.WebHost.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\System.Web.Helpers.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\System.Web.Mvc.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\System.Web.Optimization.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\System.Web.Razor.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\System.Web.WebPages.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\System.Web.WebPages.Razor.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\Antlr3.Runtime.pdb
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\Newtonsoft.Json.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\EntityFramework.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\EntityFramework.SqlServer.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\Microsoft.Owin.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.csprojResolveAssemblyReference.cache
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.pdb
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.Migrations.InicijalniModel.resources
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.csproj.GenerateResource.Cache
+C:\Users\mlade\Desktop\Projekat zaboli smo\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.Migrations.DodavanjeUloga.resources
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\roslyn\csc.exe
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\roslyn\vbc.exe
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\roslyn\VBCSCompiler.exe
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\ITS_Pravi_Projekat.dll.config
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\ITS_Pravi_Projekat.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\ITS_Pravi_Projekat.pdb
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\Antlr3.Runtime.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\AutoMapper.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\EntityFramework.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\EntityFramework.SqlServer.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\Microsoft.Owin.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\Newtonsoft.Json.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\Owin.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\System.Net.Http.Formatting.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\System.Web.Helpers.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\System.Web.Http.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\System.Web.Http.WebHost.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\System.Web.Mvc.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\System.Web.Optimization.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\System.Web.Razor.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\System.Web.WebPages.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\System.Web.WebPages.Razor.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\WebGrease.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\AutoMapper.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\System.Net.Http.Formatting.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\System.Web.Http.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\System.Web.Http.WebHost.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\System.Web.Helpers.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\System.Web.Mvc.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\System.Web.Optimization.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\System.Web.Razor.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\System.Web.WebPages.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\System.Web.WebPages.Razor.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\Antlr3.Runtime.pdb
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\Newtonsoft.Json.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\EntityFramework.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\EntityFramework.SqlServer.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\Microsoft.Owin.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.csprojResolveAssemblyReference.cache
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.Migrations.InicijalniModel.resources
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.Migrations.DodavanjeUloga.resources
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.csproj.GenerateResource.Cache
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.dll
+C:\Users\mlade\Desktop\Projekat zaboli smo i sad radi\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.pdb
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\roslyn\csc.exe
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\roslyn\vbc.exe
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\roslyn\VBCSCompiler.exe
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\ITS_Pravi_Projekat.dll.config
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\ITS_Pravi_Projekat.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\ITS_Pravi_Projekat.pdb
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\Antlr3.Runtime.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\AutoMapper.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\EntityFramework.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\EntityFramework.SqlServer.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\Microsoft.Owin.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\Newtonsoft.Json.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\Owin.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\System.Net.Http.Formatting.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\System.Web.Helpers.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\System.Web.Http.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\System.Web.Http.WebHost.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\System.Web.Mvc.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\System.Web.Optimization.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\System.Web.Razor.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\System.Web.WebPages.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\System.Web.WebPages.Razor.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\WebGrease.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\AutoMapper.xml
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\System.Net.Http.Formatting.xml
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\System.Web.Http.xml
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\System.Web.Http.WebHost.xml
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\System.Web.Helpers.xml
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\System.Web.Mvc.xml
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\System.Web.Optimization.xml
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\System.Web.Razor.xml
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\System.Web.WebPages.xml
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\System.Web.WebPages.Razor.xml
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\Antlr3.Runtime.pdb
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\Newtonsoft.Json.xml
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\EntityFramework.xml
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\EntityFramework.SqlServer.xml
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\Microsoft.Owin.xml
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.xml
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.csprojResolveAssemblyReference.cache
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.Migrations.InicijalniModel.resources
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.Migrations.DodavanjeUloga.resources
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.csproj.GenerateResource.Cache
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.dll
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.pdb
+C:\Users\mlade\Desktop\Projekat\ITS_Pravi_Projekat\obj\Debug\ITS_Pravi_Projekat.Migrations.Anotacije.resources

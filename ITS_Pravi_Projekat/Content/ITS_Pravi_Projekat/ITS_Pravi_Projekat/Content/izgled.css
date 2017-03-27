@@ -1,0 +1,97 @@
+﻿body {
+    background-color:#141518;
+    color:#fff;
+}
+p,h1,h2,h3{
+    color:#fff;
+}
+h2{
+    font-weight:600;
+}
+#loginForm{
+    background-color:#272a2e;
+}
+#uselocal {
+    margin-top:15px;
+    margin-left:1%;
+}
+.form-horizontal {
+    padding:2px;
+}
+.navbar {
+    background-color:#1cba70;
+    color:#6f47ff;
+}
+p a {
+    color:#1cba70;
+}
+p a:hover{
+    color:#22e58a;
+    text-decoration:none;
+}
+.navbar-inverse .navbar-nav li a {
+    color:#fff;
+}
+.navbar-inverse .navbar-nav li a:hover {
+    color:#ececec;
+}
+.navbar-fixed-top{
+    border-width:0;
+}
+.navbar-nav li a:focus{
+    color:#e2e2e2;
+}
+.input, .form-control {
+    background-color:#141518;
+    border: 1px solid #272a2e;
+    border-radius:4px;
+}
+input:focus, .form-control:focus{
+    border-color:#1cba70;
+    background-color: #141518;
+}
+.btn-default {
+    color: #ffffff;
+    background-color: #404040;
+}
+hr {
+    border-top: 1px solid #212121;
+}
+#reg {
+    margin-left: 1%;
+}
+.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
+    background-color: #22e58a;
+}
+
+
+@media screen and (max-width:992px){
+    .form-horizontal .control-label{
+        margin-left: 5%;
+    }
+    .form-control{
+        margin-left: 5%;
+    }
+    .btn-default{
+        margin-left: 5%;
+    }
+    .form-horizontal .checkbox{
+        margin-left: 5%;
+    }
+    #reg{
+        margin-left: 5%;
+    }
+ 
+}
+
+.field-validation-error{
+    color:red;
+}
+.input-validation-error{
+    border: 2px solid red;
+  
+}
+
+.list-group-item {
+    background-color: #272a2e;
+}

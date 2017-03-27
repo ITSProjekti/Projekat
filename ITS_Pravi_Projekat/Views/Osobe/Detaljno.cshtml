@@ -1,0 +1,65 @@
+﻿@model ITS_Pravi_Projekat.ViewModels.UnosNoveOsobeViewModel
+@{
+	ViewBag.Title = "Detaljno";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div id ="stampaj">
+
+	<h2>@Model.Osoba.Ime @Model.Osoba.Prezime</h2>
+
+	<ul>
+
+		<li><span class="opis_podatka"> Ime Roditelja :</span> @Model.Osoba.ImeRoditelja</li>
+		<li><span class="opis_podatka">JMBG :</span> @Model.Osoba.JMBG</li>
+
+		@if (Model.Osoba.DatumRodjenja.HasValue)
+		{
+			<li><span class="opis_podatka">Datum rodjenja :</span> @Model.Osoba.DatumRodjenja.Value.ToShortDateString()</li>
+		}
+		<li><span class="opis_podatka">Pol :</span> @Model.Osoba.Pol.NazivPola</li>
+		<li><span class="opis_podatka">Broj Licne Karte :</span> @Model.Osoba.BrojLicneKarte</li>
+		@if (Model.Osoba.Beleska != null)
+		{
+			<li><span class="opis_podatka">Beleska :</span> @Model.Osoba.Beleska</li>
+		}
+	</ul>
+
+</div>
+
+<!--Button za stampanje obrasca-->
+<input id="stampanje" type="button" value="Print Div" onclick="javascript: Popup('stampaj')" />
+
+<!--Button za izmenu podataka osobe-->
+<a class="a_iz_detalja" href='@Url.Action("Izmeni","Osobe", new { id = Model.Osoba.ID })'>
+	<img id="olovka_detalji" src="@Url.Content("~/Content/Images/edit_detalji.png")" alt="uredi" />
+</a>
+
+<!--Button za brisanje osobe-->
+<a class="a_iz_detalja" href='@Url.Action("ObrisiOsobu","Osobe", new { id = Model.Osoba.ID })'>
+	<img id="kanta_detalji" src="@Url.Content("~/Content/Images/delete_detalji.png")" alt="obrisi" />
+</a>
+
+<!--Skripta za stampanje obrasca-->
+<script language="javascript" type="text/javascript">
+	function Popup(stampaj)
+	   {
+			//ova linija ne radi, nece da apply css stil
+			//mywindow.document.write('<style>#printablediv{background-color: Blue; height: 200px; width: 200px;text-align = center;}</style>');
+
+			var mywindow = window.open('', 'PRINT', 'height=500,width=700');
+
+			mywindow.document.write('<html><head>');
+			mywindow.document.write('</head><body>');
+			mywindow.document.write(document.getElementById(stampaj).innerHTML);
+			mywindow.document.write('</div></body></html>');
+
+			mywindow.document.close(); // necessary for IE >= 10
+			mywindow.focus(); // necessary for IE >= 10*/
+
+			mywindow.print();
+			mywindow.close();
+
+			return true;
+		}
+</script>
